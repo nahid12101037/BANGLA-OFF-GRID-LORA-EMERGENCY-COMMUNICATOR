@@ -221,17 +221,4 @@ Combine_BLE_EPaper/
   is 5,698 messages; the usable one is much lower.
 - Not a certified radio device. 433 MHz ISM use is subject to local regulation.
 
-## Team — EEE 416, Group 3
 
-| Roll | Name | Focus |
-|---|---|---|
-| 2106161 | Shahriar | *(fill in)* |
-| | | |
-| | | |
-| | | |
-
-## License
-
-MIT — see [`LICENSE`](LICENSE).
-
-Noto Sans Bengali is licensed under the SIL Open Font License 1.1.
